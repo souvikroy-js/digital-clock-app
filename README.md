@@ -1,9 +1,9 @@
-#### 🕒 Digital Clock
+# 🕒 Digital Clock
 
 A modern and responsive **Digital Clock** built with **Next.js** and **React**.  
 Styled with **Tailwind CSS** and **Shadcn UI**, featuring smooth animations using **Framer Motion**, adaptive layouts with **react-use-measure**, and precise time/date formatting powered by **date-fns**.
 
-### ✨ Features
+## ✨ Features
 
 -   **Live Clock** – Real-time hours, minutes, and seconds.
     
@@ -19,7 +19,7 @@ Styled with **Tailwind CSS** and **Shadcn UI**, featuring smooth animations usin
     
 -    **Dark & Light Mode** – Theme switching with **Next Themes**.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 -    **Next.js** – React framework with SSR & routing.
     
@@ -36,7 +36,7 @@ Styled with **Tailwind CSS** and **Shadcn UI**, featuring smooth animations usin
 -   **date-fns** – Lightweight date/time utilities.
 
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 
 
