@@ -1,5 +1,5 @@
-import { AuroraText } from "@/components/magicui/aurora-text";
 import { Metadata } from "next";
+import Clock from "@/components/Clock";
 
 export const metadata: Metadata = {
 	title: "Home | Nextjs Starter Template",
@@ -9,10 +9,10 @@ export const metadata: Metadata = {
 const page = () => {
 	return (
 		<>
-			<section className="grid h-[80dvh] place-items-center">
-				<AuroraText className="text-5xl font-bold">
-					Nextjs Starter Template
-				</AuroraText>
+			<section className="grid h-[90dvh] place-items-center">
+				<div className="rounded-lg p-20 backdrop-blur-sm">
+					<Clock />
+				</div>
 			</section>
 		</>
 	);
